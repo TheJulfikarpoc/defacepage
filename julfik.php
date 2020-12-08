@@ -2,7 +2,7 @@
 <!-- saved from url=(0096)http://iklanku.web.id/z.php?fbclid=IwAR35j4wxO3r_moOS21Qrxy9RQYxR_Ff6GMoKBmzb9ezdR3wzv_lITydJxNw -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>pwned by thejulfikar</title>
-<meta property="og:image" content="https://cdn.idntimes.com/content-images/community/2019/07/img-20190704-004932-183-530a0421764a7532a7fb6d7e6ac2fe81_600x400.JPG">
+<meta property="og:image" content="https://i.ibb.co/ZLpFdVQ/a846c088d2e81efa0abfe2f55214c4bd.jpg">
 <link rel="icon" type="image/png" href="https://www.google.com/search?biw=1366&amp;bih=662&amp;tbm=isch&amp;sa=1&amp;ei=pVYGXYqMB-Xn5gK-g6uwDw&amp;q">
 <script src="./Ghost Riddiculous Team_files/8v6kQfn5"></script>
 <meta property="og:locale" content="en_US">
